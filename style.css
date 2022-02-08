@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mainContainer,.subContainer2,.contact{
+    background-image: url("assets/images/Bg.jpg");
+}
+.header,.footer{
+    background-color: #2d254c;
+}
+nav{
+    width: 100%;
+    height: 100%;
+}
+nav div .nav-link{
+    text-decoration: none;
+    color: #b0a7d4;
+}
+.sampleText1{
+    color:#9e8cff;
+    margin: 0;
+}
+.sampleText2,.footer{
+    color:#fff;
+   
+}
+.sampleText3{
+    color:#9e8cff;
+}
+.iconSection img {
+    width: 50vw;
+}
+.iconSection .sampleText1,.iconSection .sampleText3,.blog .sampleText1,.blog .sampleText3,.conatctBody .sampleText1,.conatctBody .sampleText3 {
+    font-size: 1em;
+    margin: 0;
+}
+.iconSection .sampleText2,.blog .sampleText2,.conatctBody .sampleText2{
+    font-size: 2em;
+    margin: 0;
+}
+.subContainer1,.blog{
+    background-color: #3a315c;
+}
+.h2, .form-label{
+    color: #d878e4;
+}
+.h4{
+   color: #9e8cff;
+}
