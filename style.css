@@ -5,6 +5,7 @@
 }
 .mainContainer,.subContainer2,.contact{
     background-image: url("Bg.jpg");
+     background-color: #2d254c;
 }
 .header,.footer{
     background-color: #2d254c;
