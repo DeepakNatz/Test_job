@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .mainContainer,.subContainer2,.contact{
-    background-image: url("assets/images/Bg.jpg");
+    background-image: url("Bg.jpg");
 }
 .header,.footer{
     background-color: #2d254c;
